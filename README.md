@@ -35,4 +35,5 @@ fi
 0 * * * * /home/joos/rsync.sh
 ```
 
-![2](https://github.com/znak72/klaster3/blob/main/2.png)
+![image](https://github.com/Wernigerode23/Wernigorov/assets/153208339/1f3d4f0f-b673-454d-8813-17f839247c44)
+
