@@ -10,7 +10,8 @@
 ```
 rsync -ac --delete --exclude=".*/" . /tmp/backup
 ```
-![1](https://github.com/znak72/klaster3/blob/main/1.png)
+![image](https://github.com/Wernigerode23/Wernigorov/assets/153208339/88732638-b29f-42df-a9c9-959ccfada1ff)
+
 
 
 ### Задание 2
